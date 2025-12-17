@@ -1,6 +1,4 @@
-# Digital-Literacy-Training-Bot
-
-# Digi Dhost 
+# Digi Dhost 🤖
 
 **Your Friendly Guide to the Digital World.**
 
@@ -8,7 +6,7 @@ Digi Dhost is a bilingual (English/Tamil) digital literacy assistant designed to
 
 ---
 
-##  Features
+## 🌟 Features
 
 -   **Bilingual Support**: Seamlessly switches between English and Tamil.
 -   **AI-Powered Chatbot**: Ask questions about technology and get instant, helpful answers.
@@ -18,7 +16,7 @@ Digi Dhost is a bilingual (English/Tamil) digital literacy assistant designed to
 
 ---
 
-##  Technology Stack
+## 🛠️ Technology Stack
 
 -   **Framework**: [Next.js](https://nextjs.org/) (React)
 -   **AI Provider**: OpenRouter (Model: `nex-agi/deepseek-v3.1-nex-n1:free`)
@@ -26,7 +24,7 @@ Digi Dhost is a bilingual (English/Tamil) digital literacy assistant designed to
 
 ---
 
-##  Getting Started
+## 🚀 Getting Started
 
 Follow these steps to set up the project locally.
 
@@ -59,8 +57,11 @@ Start the development server:
 npm run dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Customization
+---
+
+## 🎨 Customization
 
 ### Background Image
 The home page features a custom background image with a gradient overlay.
@@ -70,6 +71,6 @@ The home page features a custom background image with a gradient overlay.
 
 ---
 
-## Context
+## 🤝 Context
 
 This project was built to bridge the digital divide by providing an accessible, friendly, and intelligent guide for digital literacy.
